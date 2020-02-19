@@ -29,4 +29,4 @@ while not quit_game:
             True
 
     
-    Mark.update #lmao
+    Mark.update
