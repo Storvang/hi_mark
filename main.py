@@ -32,4 +32,4 @@ while not quit_game:
     Mark.update
 
 
-#Bare lig for at tjekke om git virker...
+#Bare lig for at tjekke om git virker..
