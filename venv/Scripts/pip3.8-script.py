@@ -1,4 +1,4 @@
-#!"C:\Users\Holger\OneDrive\OneDrive Documents\Programmering\PycharmProjects\Hi Mark\venv\Scripts\python.exe"
+#!C:\Users\Buster\PycharmProjects\hi_mark\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip3.8'
 __requires__ = 'pip==19.0.3'
 import re
