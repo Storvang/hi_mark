@@ -30,3 +30,6 @@ while not quit_game:
 
     
     Mark.update
+
+
+ hej
